@@ -1,0 +1,23 @@
+.capital{
+    color:red;
+}
+
+
+.background{
+    background-color:beige;
+}
+
+h2.capital{
+    color:orangered;
+    background-color: beige;
+}
+.text.capital{
+    color:blue;
+    background-color:orange;
+}
+
+
+p {
+    color: pink;
+    background-color: rebeccapurple;
+}
